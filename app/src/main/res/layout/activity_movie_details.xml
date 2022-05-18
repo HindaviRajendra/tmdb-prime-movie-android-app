@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_200"
+    android:orientation="vertical"
+    tools:context=".activity.MovieDetailsActivity">
+
+    <include layout="@layout/toolbar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingHorizontal="@dimen/dimen_5">
+
+        <ImageView
+            android:id="@+id/movie_image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_200"
+            android:src="@drawable/movie_sample" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/movie_image"
+            android:layout_marginTop="@dimen/dimen_10"
+            android:fontFamily="@font/nunitosans_bold"
+            android:singleLine="true"
+            android:text="Movie Name"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dimen_18sp" />
+
+        <TextView
+            android:id="@+id/release_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="@dimen/dimen_15"
+            android:layout_marginBottom="@dimen/dimen_5"
+            android:fontFamily="@font/nunitosans_regular"
+            android:text="Movie Name"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:id="@+id/vote_avg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title"
+            android:layout_alignRight="@+id/release_date"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:layout_marginRight="@dimen/dimen_5"
+            android:layout_marginStart="@dimen/dimen_5"
+            android:layout_marginTop="@dimen/dimen_5"
+            android:layout_marginEnd="@dimen/dimen_5"
+            android:layout_marginBottom="@dimen/dimen_5"
+            android:drawableLeft="@drawable/star"
+            android:gravity=""
+            android:text="2.2"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/overview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/release_date"
+            android:layout_marginTop="@dimen/dimen_10"
+            android:layout_marginBottom="@dimen/dimen_5"
+            android:fontFamily="@font/nunitosans_regular"
+            android:gravity="left"
+            android:text="Movie Name"
+            android:textColor="@color/gray"
+            android:textSize="@dimen/dimen_15sp" />
+    </RelativeLayout>
+
+
+</LinearLayout>

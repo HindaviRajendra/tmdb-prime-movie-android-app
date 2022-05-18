@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Practice/KOTLIN/BackUp 10-05/PrimeMovie/app/src/main/res/drawable-v24/arrow_back.xml" value="0.20416666666666666" />
+        <entry key="..\:/Practice/KOTLIN/BackUp 10-05/PrimeMovie/app/src/main/res/drawable/spinner_bg.xml" value="0.20416666666666666" />
+        <entry key="..\:/Practice/KOTLIN/BackUp 10-05/PrimeMovie/app/src/main/res/drawable/spinner_sla.xml" value="0.20416666666666666" />
+        <entry key="..\:/Practice/KOTLIN/BackUp 10-05/PrimeMovie/app/src/main/res/drawable/star.xml" value="0.1453125" />
+        <entry key="..\:/Practice/KOTLIN/BackUp 10-05/PrimeMovie/app/src/main/res/layout/activity_movie_details.xml" value="0.2799097065462754" />
+        <entry key="..\:/Practice/KOTLIN/BackUp 10-05/PrimeMovie/app/src/main/res/layout/activity_view_movie_list.xml" value="0.18802083333333333" />
+        <entry key="..\:/Practice/KOTLIN/BackUp 10-05/PrimeMovie/app/src/main/res/layout/movie_item.xml" value="0.12916666666666668" />
+        <entry key="..\:/Practice/KOTLIN/BackUp 10-05/PrimeMovie/app/src/main/res/layout/toolbar.xml" value="0.25" />
+        <entry key="..\:/Practice/KOTLIN/BackUp 13-05 Eve/PrimeMovie/app/src/main/res/layout/activity_main.xml" value="0.18854166666666666" />
+        <entry key="..\:/Practice/KOTLIN/BackUp 13-05 Eve/PrimeMovie/app/src/main/res/layout/activity_view_movie_list.xml" value="0.15052083333333333" />
+        <entry key="..\:/Practice/KOTLIN/BackUp 13-05 Eve/PrimeMovie/app/src/main/res/layout/item_loading.xml" value="0.18854166666666666" />
+        <entry key="..\:/Practice/KOTLIN/BackUp 13-05 Eve/PrimeMovie/app/src/main/res/layout/movie_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Practice/PrimeMovie/app/src/main/res/drawable/app_logo_background.xml" value="0.2046875" />
+        <entry key="..\:/Practice/PrimeMovie/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2046875" />
+        <entry key="..\:/Practice/PrimeMovie/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Practice/PrimeMovie/app/src/main/res/layout/activity_view_movie_list.xml" value="0.18" />
+        <entry key="..\:/Practice/PrimeMovie/app/src/main/res/layout/movie_item.xml" value="0.18" />
+        <entry key="..\:/Practice/PrimeMovie/app/src/main/res/mipmap-anydpi-v26/app_logo.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

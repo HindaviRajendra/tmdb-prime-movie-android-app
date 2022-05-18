@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PrimeMovie</string>
+    <string name="selected_item">Selected Category:</string>
+
+    <string-array name="sort_Categories">
+        <item>Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+
+
+    <string name="dialogMessage">Are you sure, do you want to close Prime Movie?</string>
+
+</resources>
